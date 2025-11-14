@@ -7,6 +7,10 @@ st.set_page_config(
     page_title="Welcome to CHACHA",
     layout="wide"
 )
+# jsut to check
+
+def print_hello:
+	print("hello")
 
 # Reduce overall font size
 st.markdown(
