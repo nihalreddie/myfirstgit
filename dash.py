@@ -4,7 +4,7 @@ from shared_db import save_message as save
 
 # Page configuration
 st.set_page_config(
-    page_title="Welcome to CHACHA",
+    page_title="Welcome to chatbee",
     layout="wide"
 )
 # jsut to check
